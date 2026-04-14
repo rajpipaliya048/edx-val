@@ -1404,3 +1404,6 @@ def create_transcript_objects(xml, edx_video_id, resource_fs, static_dir, extern
                     resource_fs=file_system,
                     static_dir=static_dir
                 )
+
+def my_test():
+    print("This is a test function.")

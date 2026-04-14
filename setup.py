@@ -133,10 +133,10 @@ if sys.argv[-1] == 'tag':
     sys.exit()
 
 setup(
-    name='edxval',
+    name='test-edxval',
     version=VERSION,
     author='edX',
-    url='http://github.com/openedx/edx-val',
+    url='https://github.com/rajpipaliya048/edx-val',
     description='edx-val',
     long_description='edx-val',
     long_description_content_type='text/x-rst',

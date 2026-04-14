@@ -7,7 +7,7 @@ metadata:
   name: 'edx-val'
   description: "Video Abstraction Layer (VAL), a django app that creates and retrieves metadata for videos and subtitles."
   links:
-    - url: "https://github.com/openedx/edx-val"
+    - url: "https://github.com/rajpipaliya048/edx-val"
       title: "edX Video Abstraction Layer (VAL)"
       icon: "Web"
   annotations:
